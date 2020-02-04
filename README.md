@@ -1,6 +1,5 @@
 DBA Candidate Problem
 ================
-​
 ## Background
 As described by [Radiology Info](http://www.radiologyinfo.org), radiologists are medical doctors who specialize in diagnosing and treating disease and injury through the use of medical imaging techniques such as x-rays, computer tomography (CT), magnetic resonance  imaging (MRI), positron emission tomography (PET), fusion imaging, and ultrasound. Each collection of images for a patient is represented in the RIS as a study. Envision Healthcare radiologists use the RIS to dictate study reports to communicate diagnosis and treatment details to physicians.
 ​
